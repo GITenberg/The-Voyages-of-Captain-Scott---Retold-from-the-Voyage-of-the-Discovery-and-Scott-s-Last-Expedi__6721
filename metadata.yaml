@@ -1,0 +1,31 @@
+_repo: The-Voyages-of-Captain-Scott---Retold-from-the-Voyage-of-the-Discovery-and-Scott-s-Last-Expedi__6721
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Turley, Charles
+    birthdate: 1868
+    deathdate: 1940
+    gutenberg_agent_id: '2175'
+    url: http://www.gutenberg.org/2009/agents/2175
+description: ''
+gutenberg_issued: '2006-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6721'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Terra Nova (Ship)'
+- !lcsh 'Discovery (Ship)'
+- !lcc 'G'
+- !lcsh 'British Antarctic ("Terra Nova") Expedition (1910-1913)'
+- !lcsh 'British National Antarctic Expedition (1901-1904)'
+- !lcsh 'South Pole'
+- !lcsh 'Antarctica'
+- !lcsh 'Scott, Robert Falcon, 1868-1912'
+- GITenberg
+title: 'The Voyages of Captain Scott : Retold from the Voyage of the Discovery and
+  Scott''s Last Expedition'
+url: http://www.gutenberg.org/ebooks/6721
