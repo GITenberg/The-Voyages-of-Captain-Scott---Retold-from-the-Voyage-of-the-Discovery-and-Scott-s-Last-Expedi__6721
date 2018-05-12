@@ -1,5 +1,8 @@
 _repo: The-Voyages-of-Captain-Scott---Retold-from-the-Voyage-of-the-Discovery-and-Scott-s-Last-Expedi__6721
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Turley, Charles
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '2175'
     url: http://www.gutenberg.org/2009/agents/2175
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6721#The-Voyages-of-Captain-Scott---Retold-from-the-Voyage-of-the-Discovery-and-Scott-s-Last-Expedi_
 gutenberg_issued: '2006-01-07'
 gutenberg_type: Text
 identifiers:
